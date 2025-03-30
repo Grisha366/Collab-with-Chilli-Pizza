@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: green;
+}
+
+main{
+      background-color: aquamarine;
+}
+
+footer{
+    background-color: greenyellow;
+
+}
+
+footer h2{
+    text-align: center;
+    
+}
+
+header a{
+    display: flex;
+    flex-wrap: wrap;
+}
