@@ -2,34 +2,43 @@ body{
     font-family: sans-serif;
 }
 
-header{
-    text-align: center;
-    background-color: green;
-}
 
 td{
     border: 1px solid white;
 }
 
-main{
-      background-color: aquamarine;
-}
-
-footer{
-    background-color: greenyellow;
-
-}
 
 footer h2{
     text-align: center;
     
 }
 
-header a{
-    display: flex;
-    flex-wrap: wrap;
-}
-
 table{
     border: 1px solid white;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(209, 61, 35);
+}
+
+main{
+   background-color: aquamarine;
+}
+
+footer{
+    background-color: greenyellow;
+}
+
+.Description{
+    font-size: large;
+
+}
+a{
+    width: 200px;
+    length: 200px;
 }
