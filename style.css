@@ -51,8 +51,3 @@ footer h2{
     text-align: center;
     
 }
-
-header a{
-    display: flex;
-    flex-wrap: wrap;
-}
