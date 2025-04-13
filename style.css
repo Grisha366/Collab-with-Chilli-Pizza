@@ -43,9 +43,8 @@ body{
     font-family: sans-serif;
 }
 
-header{
+.drinks{
     text-align: center;
-    background-color: rgb(194, 31, 31);
 }
 
 main{
