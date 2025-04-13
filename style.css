@@ -8,7 +8,26 @@ header{
     text-align: left;
 }
 
-h1, h2{
+.text{
+    padding-top: 25px;
+}
+
+.slogan{
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.btn{
+    padding: 15px 30px;
+    background-color: rgb(187, 56, 56);
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+h1, h2, h3{
    text-align: center;
    color: rgb(187, 56, 56);
 }
@@ -16,7 +35,7 @@ h1, h2{
 header ul{
     list-style-type: none;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     color: black;
 }
 
@@ -24,24 +43,18 @@ main p{
     text-align: center;
 }
 
+img{
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+
 footer{
     background-color: rgb(236, 183, 145);
-}
-
-.Description{
-    font-size: large;
-
-}
-a{
-    width: 200px;
-    length: 200px;
+    padding-top: 5px;
+    padding-bottom: 10px;
 }
 
 /*DESSERT MENU*/
-
-body{
-    font-family: sans-serif;
-}
 
 .drinks{
     text-align: left;
@@ -49,5 +62,4 @@ body{
 
 footer h2{
     text-align: center;
-    
 }
